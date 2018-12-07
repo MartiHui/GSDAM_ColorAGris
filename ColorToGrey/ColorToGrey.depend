@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543838561 source:e:\2_multiplataformas\cpp\colortogrey\colortogrey\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<algorithm>
+
